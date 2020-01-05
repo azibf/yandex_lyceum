@@ -2,7 +2,7 @@ from random import randint
 import sys
 from PyQt5.QtGui import QPainter, QColor
 from PyQt5.QtWidgets import QWidget, QApplication, QPushButton
-from PyQt5 import uic,  QPainter, QColor
+from PyQt5 import uic
 
 
 class Main(QWidget):
